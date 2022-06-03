@@ -6,13 +6,13 @@
 <br/>
 
 <a href="https://twitter.com/nokhando">
-  <img align="left" alt="Ahsan Khan | Twitter" width="22px" src="assets/twitter.svg" />
+  <img align="left" alt="Ahsan Khan | Twitter" width="22px" src="https://github.com/ahsankhan99/ahsankhan99/blob/main/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/ahsan-khan99/">
-  <img align="left" alt="Ahsan's LinkedIn" width="22px" src="assets/linkedin.svg" />
+  <img align="left" alt="Ahsan's LinkedIn" width="22px" src="https://github.com/ahsankhan99/ahsankhan99/blob/main/assets/linkedin.png" />
 </a>
 <a href="https://open.spotify.com/user/khanahsan">
-  <img align="left" alt="Ahsan's Spotify" width="22px" src="assets/spotify.svg" />
+  <img align="left" alt="Ahsan's Spotify" width="22px" src="https://github.com/ahsankhan99/ahsankhan99/blob/main/assets/spotify.png" />
 </a>
 
 ![View Counter](https://gpvc.arturio.dev/ahsankhan99)
