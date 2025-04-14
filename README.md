@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan</h1>
-<h3 align="center">A front-end developer based in Pakistan. I'm passionate about crafting visually appealing, intuitive and functional web apps.</h3>
+<h3 align="center">A software developer based in UK. I'm passionate about crafting visually appealing, intuitive and functional web apps.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
